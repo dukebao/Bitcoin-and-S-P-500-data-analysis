@@ -1,0 +1,12 @@
+2022-10-08 21:50:00,691:WARNING:/opt/homebrew/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/lib/python3.10/distutils/dist.py:274: UserWarning: Unknown distribution option: 'data'
+  warnings.warn(msg)
+
+2022-10-08 21:50:00,691:WARNING:/opt/homebrew/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/lib/python3.10/distutils/dist.py:274: UserWarning: Unknown distribution option: 'target'
+  warnings.warn(msg)
+
+2022-10-08 21:50:00,691:WARNING:/opt/homebrew/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/lib/python3.10/distutils/dist.py:274: UserWarning: Unknown distribution option: 'session_id'
+  warnings.warn(msg)
+
+2022-10-08 21:50:00,691:WARNING:/opt/homebrew/Cellar/python@3.10/3.10.6_2/Frameworks/Python.framework/Versions/3.10/lib/python3.10/distutils/dist.py:274: UserWarning: Unknown distribution option: 'use_gpu'
+  warnings.warn(msg)
+
